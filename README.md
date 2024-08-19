@@ -1,5 +1,5 @@
 <div align='center'>
-    <img width="200px" src='public/assets/lock.png'/>
+    
 <br>
 <h1 align='center'>Authorization form</h1>
 </div>
