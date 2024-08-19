@@ -1,11 +1,14 @@
-import { type DefaultSession } from "next-auth";
+import { type User, DefaultSession } from "next-auth";
 import { JWT } from "next-auth/jwt";
+
+interface UserWithRole extends User {
+  role: "USER" | "ADMIN";
+}
 
 declare module "next-auth" {
   interface Session {
-    user: DefaultSession["user"] & {
-      role: "USER" | "ADMIN";
-    };
+    user: UserWithRole;
+    expires: DefaultSession["expires"];
   }
 }
 
