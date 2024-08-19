@@ -61,7 +61,7 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
-👉 Live Demo: <a href='https://auth-next-ruddy.vercel.app' target="_blank">Auth lock Demo</a>
+👉 Live Demo: <a href='https://auth-next-ruddy.vercel.app/' target="_blank">Auth lock Demo</a>
 
 **Build with:**
 
