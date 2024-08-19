@@ -69,7 +69,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 **Screenshots of the Project 📸**
 
-** align='center'>Login page 🔐**
+<h3 align='center'>Login page 🔐</h3> 
 
 <div align='center'>
     <img src='public/assets/screenshots/auth-next-ruddy.vercel.app_auth_login.png'/>
@@ -77,7 +77,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 <br><br>
 
-** align='center'>Register page 🔏**
+<h3 align='center'>Register page 🔏</h3> 
 
 <div align='center'>
 <img src='public/assets/screenshots/auth-next-ruddy.vercel.app_auth_register.png'/>
@@ -85,7 +85,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 <br><br>
 
-** align='center'>Settings page ⚙️**
+<h3 align='center'>Settings page ⚙️</h3> 
 
 <div align='center'>
 <img src='public/assets/screenshots/auth-next-ruddy.vercel.app_settings.png'/>
