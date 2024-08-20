@@ -44,11 +44,14 @@ DATABASE_URL=""
 
 AUTH_SECRET=""
 
+# Google Credentials
 GOOGLE_CLIENT_ID=
 GOOGLE_CLIENT_SECRET=
 
+# https://resend.com/  api key
 RESEND_API_KEY=
 
+# Domain
 NEXT_PUBLIC_APP_URL=""
 ```
 
